@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background: url('./header-bg.jpg') no-repeat center center /cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding-top: 90px;
+    text-align: center;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 200px;
+}
+
+.pin{
+    margin-right: 8px;
+}
+
+.logo{
+    color:#fff;
+    font-size: 22px;
+}
+
+.info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.london{
+    color: #000;
+    font-weight: 900;
+    font-size: 15px;
+    background-color: #fff;
+    width: 260px;
+    text-align: center;
+    margin-bottom: 24px;
+    border-radius: 78px;
+    padding-top: 8px;
+    padding: 8px 17px;
+    text-transform: uppercase;
+}
+ 
+.title{
+    color: #fff;
+    font-size: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+.text{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.link{
+    color: #fff;
+    background-color:#FF7E36;
+    padding: 18px 52px;
+    border-radius: 119px;
+    font-size: 16;
+    font-weight: 900;
+    
+}
+.arrow{
+    margin-top: 217px;
+}
+
+
+/*..............................*/
+
+.two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.dostmarsh{
+    color: #304041;
+    font-size: 30px;
+    margin-top: 155px;
+    margin-bottom: 98.71px;
+}
+.big{
+    height: 641px;
+    width: 1148px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 88.84px;
+}
+.left{
+    width: 672px;
+    height: 640.64px;
+    background-color: #FFF6F1;
+}
+.textarr{
+    margin: 10px 75px 75px 75px;
+}
+
+.maintxt{ 
+    color: #7e1123;
+    font-size: 30px;
+    width: 521px;
+    height: 419.03px;    
+}
+.marsh12{
+    color: #789AA0;
+    font-size: 15px;
+    padding-top: 110.56px;
+
+}
+.istc{
+    color: #304041;
+    font-size: 24px;
+    padding-top: 20px;
+}
+.matxt{
+    color:#304041;
+    font-size: 15px;
+    width: 521px;
+    height: 419.03px;
+    padding-top: 40px;
+}
+
+.west{
+    width: 476px;
+    height: 640.64px;
+}
+.smvs{
+    display: flex;
+    justify-content:center;
+    width: 322px;
+    color: #FF7E36;
+    border: solid;
+    text-decoration: none;
+    border-radius: 94px;
+    padding: 18px 49px;
+    font-weight: 800;
+    font-size: 16px;
+}
+
+/*...........*/
+
+.three {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.vozon{
+    margin-top: 146px;
+    color: #304041;
+    font-size: 30px;
+    margin-bottom: 93px;
+}
+.mainn{
+    height: 756px;
+    width: 1370px;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 147px;
+}
+.txt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 407px;
+    height: 312px;
+    margin-top: 250px;
+    font-size: 16px;
+}
+.rab{
+    padding-bottom: 57px;
+
+}
+.sot{
+    padding-bottom: 57px;
+}
+.londonn{
+    margin-left: 176px;
+    width: 787px;
+    height: 626px;
+}
+.podv{
+    display: flex;
+    margin-left: 230px;
+    margin-bottom: 165px;
+    color: #5C7677;
+    font-size: 14px;
+}
+
+.poluch{
+    margin-left: 60px;
+}
+.r1{
+    padding-bottom:15px;
+}
+.r2{
+    padding-bottom:15px;
+}
+.r3{
+    padding-bottom:15px;
+}
